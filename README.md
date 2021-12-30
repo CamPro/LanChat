@@ -1,2 +1,2 @@
 # LanChat
-Chat On Lan. Realtime. Socket
+Chat On Lan. Realtime. Socket. Simple server and client.
